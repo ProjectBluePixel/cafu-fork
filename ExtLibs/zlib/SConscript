@@ -1,0 +1,6 @@
+import os, sys
+
+Import('env')
+
+
+env.StaticLibrary("z", Glob("*.c"))

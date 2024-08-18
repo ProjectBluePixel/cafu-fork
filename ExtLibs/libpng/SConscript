@@ -1,0 +1,8 @@
+import os, sys
+
+Import('env')
+
+
+env.StaticLibrary("png",
+    Split("""png.c pngset.c pngget.c pngrutil.c pngtrans.c pngwutil.c pngmem.c pngpread.c
+             pngread.c pngerror.c pngwrite.c pngrtran.c pngwtran.c pngrio.c pngwio.c"""))
