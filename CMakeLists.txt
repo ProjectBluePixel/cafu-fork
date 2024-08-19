@@ -1,12 +1,13 @@
-cmake_minimum_required(VERSION 3.9)
+project(Cafu)
 
-project("Cafu Engine")
+add_subdirectory(ExLibs)
 
-add_subdirectory(Libs)
-add_subdirectory(ExtLibs/minizip)
-
-find_package(Freetype REQUIRED)
-
-add_executable(MakeFont "CaTools/MakeFont.cpp")
-target_include_directories(MakeFont PRIVATE ${FREETYPE_INCLUDE_DIRS})
-target_link_libraries(MakeFont cfsLib minizip ${FREETYPE_LIBRARIES})
+add_subdirectory(Ca3DE)
+add_subdirectory(CaBSP)
+add_subdirectory(CaBSP)
+add_subdirectory(CaLight)
+add_subdirectory(CaPVS)
+add_subdirectory(CaSHL)
+add_subdirectory(CaTools)
+add_subdirectory(CaWE)
+add_subdirectory(Common)

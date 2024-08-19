@@ -1,8 +1,0 @@
-// Cafu Map File
-// Written by CaWE, the Cafu World Editor.
-Version 14
-
-
-{
-  classname "info_player_start"
-}
