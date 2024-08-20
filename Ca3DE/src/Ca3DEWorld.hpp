@@ -1,15 +1,9 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
-
 #ifndef CAFU_CA3DECOMMONWORLD_HPP_INCLUDED
 #define CAFU_CA3DECOMMONWORLD_HPP_INCLUDED
 
 #include "Templates/Pointer.hpp"
 #include "PhysicsWorld.hpp"
-#include "../Common/World.hpp"
+#include "Common/World.hpp"
 
 
 namespace cf { namespace ClipSys { class ClipWorldT; } }

@@ -1,15 +1,9 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
-
 #include "Server.hpp"
 #include "ServerWorld.hpp"
 #include "ClientInfo.hpp"
-#include "../GameInfo.hpp"
-#include "../NetConst.hpp"
-#include "../PlayerCommand.hpp"
+#include "GameInfo.hpp"
+#include "NetConst.hpp"
+#include "PlayerCommand.hpp"
 #include "ConsoleCommands/Console.hpp"
 #include "ConsoleCommands/ConsoleStringBuffer.hpp"
 #include "ConsoleCommands/ConsoleInterpreter.hpp"

@@ -1,9 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
-
 #include "ClientWorld.hpp"
 #include "../EngineEntity.hpp"
 #include "../NetConst.hpp"
@@ -27,7 +21,7 @@ This project is licensed under the terms of the MIT license.
 #include "SoundSystem/SoundSys.hpp"
 #include "Win32/Win32PrintHelp.hpp"
 #include "DebugLog.hpp"
-#include "../Common/CompGameEntity.hpp"
+#include "Common/CompGameEntity.hpp"
 
 #include <cassert>
 

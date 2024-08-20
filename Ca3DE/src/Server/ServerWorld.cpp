@@ -1,12 +1,6 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
-
 #include "ServerWorld.hpp"
 #include "ClientInfo.hpp"
-#include "../EngineEntity.hpp"
+#include "EngineEntity.hpp"
 #include "ConsoleCommands/Console.hpp"      // For cf::va().
 #include "GameSys/CompHumanPlayer.hpp"
 #include "GameSys/CompModel.hpp"
@@ -14,8 +8,8 @@ This project is licensed under the terms of the MIT license.
 #include "GameSys/World.hpp"
 #include "SceneGraph/BspTreeNode.hpp"
 #include "Win32/Win32PrintHelp.hpp"
-#include "../NetConst.hpp"
-#include "../Common/CompGameEntity.hpp"
+#include "NetConst.hpp"
+#include "Common/CompGameEntity.hpp"
 
 
 CaServerWorldT::CaServerWorldT(const char* FileName, ModelManagerT& ModelMan, cf::GuiSys::GuiResourcesT& GuiRes)

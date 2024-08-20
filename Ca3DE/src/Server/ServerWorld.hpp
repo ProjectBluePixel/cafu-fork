@@ -1,14 +1,8 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
-
 #ifndef CAFU_CASERVERWORLD_HPP_INCLUDED
 #define CAFU_CASERVERWORLD_HPP_INCLUDED
 
-#include "../Ca3DEWorld.hpp"
-#include "../PlayerCommand.hpp"
+#include "Ca3DEWorld.hpp"
+#include "PlayerCommand.hpp"
 
 
 namespace cf { namespace ClipSys { class CollisionModelT; } }
