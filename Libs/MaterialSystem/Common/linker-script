@@ -1,1 +1,0 @@
-VERSION { MyVersion { global: GetRenderer; GetTextureMapManager; local: *; }; }
