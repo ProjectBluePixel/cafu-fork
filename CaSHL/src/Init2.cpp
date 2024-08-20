@@ -1,9 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
-
 #if USE_NORMALMAPS
 
 // This function computes a normal vector for a patch by taking the surfaces normal-map into account.

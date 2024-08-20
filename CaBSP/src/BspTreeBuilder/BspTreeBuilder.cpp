@@ -1,9 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
-
 #include <time.h>
 #include <stdio.h>
 #include <string.h>
@@ -11,7 +5,7 @@ This project is licensed under the terms of the MIT license.
 #include <algorithm>
 #include <iostream>
 
-#include "../../Common/World.hpp"   // SHOULD *NOT* BE HERE, only needed for some MapT::xy stuff!
+#include "Common/World.hpp"   // SHOULD *NOT* BE HERE, only needed for some MapT::xy stuff!
 #include "BspTreeBuilder.hpp"
 #include "ConsoleCommands/Console.hpp"
 #include "MaterialSystem/Material.hpp"

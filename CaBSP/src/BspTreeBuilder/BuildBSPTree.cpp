@@ -1,10 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
-
-
 // Für g++ darf diese Struktur nicht lokal in 'ChooseSplitPlane()' definiert sein,
 // da sie ansonsten nicht als Template-Argument verwendet werden kann.
 struct PlaneInfoT

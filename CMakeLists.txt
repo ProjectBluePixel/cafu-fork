@@ -4,7 +4,7 @@ include(cmake/utils.cmake)
 
 #add_subdirectory(ExLibs)
 add_subdirectory(CaCommon)
-add_subdirectory(CaLibs)
+add_subdirectory(CaLib)
 
 add_subdirectory(Ca3DE)
 add_subdirectory(CaBSP)

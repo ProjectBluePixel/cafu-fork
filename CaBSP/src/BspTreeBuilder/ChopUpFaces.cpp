@@ -1,10 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
-
-
 void BspTreeBuilderT::ChopUpFaces()
 {
     Console->Print(cf::va("\n%-50s %s\n", "*** Chop Up Interpenetrations ***", GetTimeSinceProgramStart()));

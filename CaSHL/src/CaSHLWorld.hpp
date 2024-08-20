@@ -11,7 +11,7 @@ This project is licensed under the terms of the MIT license.
 #ifndef CAFU_CASHLWORLD_HPP_INCLUDED
 #define CAFU_CASHLWORLD_HPP_INCLUDED
 
-#include "../Common/World.hpp"
+#include "Common/World.hpp"
 
 
 // This switch controls the usage of normal-maps for SHL patches.

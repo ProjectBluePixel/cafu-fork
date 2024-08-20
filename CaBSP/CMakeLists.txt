@@ -8,4 +8,4 @@ group_sources(SRC_FILES)
 
 add_executable(CaBSP ${SRC_FILES})
 
-target_link_libraries(CaBSP CaLib)
+target_link_libraries(CaBSP CaLib CaCommon)
