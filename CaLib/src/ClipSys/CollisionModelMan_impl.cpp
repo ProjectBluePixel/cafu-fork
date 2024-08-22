@@ -11,7 +11,7 @@ This project is licensed under the terms of the MIT license.
 #include "ConsoleCommands/Console.hpp"
 #include "TextParser/TextParser.hpp"
 #include "String.hpp"
-#include "../Common/World.hpp"      // Needed (only) for some MapT::xy stuff.
+#include "Common/World.hpp"      // Needed (only) for some MapT::xy stuff.
 
 
 using namespace cf::ClipSys;

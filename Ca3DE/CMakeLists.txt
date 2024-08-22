@@ -7,6 +7,6 @@ group_sources(SRC_FILES)
 
 add_executable(Ca3DE ${SRC_FILES})
 
-target_link_libraries(Ca3DE CaLib CaCommon)
+target_link_libraries(Ca3DE CaLib CaCommon glfw bullet)
 
 target_include_directories(Ca3DE PRIVATE src)

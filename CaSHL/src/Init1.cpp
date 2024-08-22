@@ -1,4 +1,5 @@
 #include "CaSHLWorld.hpp"
+
 // Initialisiert die FacePVS-Matrix, für die nach Ausführung dieser Funktion folgende Eigenschaften gelten:
 //
 //     1) FacePVS[i][j]==     NO_VISIBILITY   iff   Face[i] can  NOT        see Face[j]

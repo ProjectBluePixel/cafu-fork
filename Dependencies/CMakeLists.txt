@@ -1,1 +1,2 @@
-add_subdirectory(glfw)
+add_subdirectory(glfw-3.4)
+add_subdirectory(bullet)

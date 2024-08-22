@@ -2,7 +2,7 @@ project(Cafu)
 
 include(cmake/utils.cmake)
 
-#add_subdirectory(ExLibs)
+add_subdirectory(Dependencies)
 add_subdirectory(CaCommon)
 add_subdirectory(CaLib)
 
