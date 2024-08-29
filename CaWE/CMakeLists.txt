@@ -6,4 +6,6 @@ file(GLOB_RECURSE SRC_FILES src/*.cpp src/*.h)
 
 add_executable(CaWE ${SRC_FILES})
 
-#target_link_libraries(CaWE CAFU)
+target_include_directories(${PROJECT_NAME} PRIVATE src)
+
+target_link_libraries(${PROJECT_NAME} CaLib)
