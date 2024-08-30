@@ -1,8 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
 
 ////////////////////////////////////////////////////////////////////////////////////////////
 // This compilation unit (source code file) must *only* be linked to the main executable, //

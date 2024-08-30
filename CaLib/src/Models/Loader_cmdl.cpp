@@ -1,8 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
 
 #include "Loader_cmdl.hpp"
 #include "ConsoleCommands/Console.hpp"      // for cf::va()

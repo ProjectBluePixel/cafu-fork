@@ -1,8 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
 
 #ifndef CAFU_TOOL_OPTIONS_BARS_HPP_INCLUDED
 #define CAFU_TOOL_OPTIONS_BARS_HPP_INCLUDED

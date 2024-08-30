@@ -1,8 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
 
 // TODO: REMOVE ALL THE "MATSYS" and "MS" SUFFIXES!
 #ifndef CAFU_PARTICLE_ENGINE_MATSYS_HPP_INCLUDED

@@ -1,8 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
 
 // Initialisiert die PatchMeshesPVS-Matrix, für die nach Ausführung dieser Funktion folgende Eigenschaften gelten:
 //

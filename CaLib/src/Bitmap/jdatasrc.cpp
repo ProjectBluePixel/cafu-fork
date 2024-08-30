@@ -1,8 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
 
 // This file has been derived from the jdatasrc.c file of the jpeg library,
 // with the goal to provide a cf::FileSys::InFileI* based jpeg source manager,

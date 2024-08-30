@@ -1,8 +1,3 @@
-/*
-Cafu Engine, http://www.cafu.de/
-Copyright (c) Carsten Fuchs and other contributors.
-This project is licensed under the terms of the MIT license.
-*/
 
 #include "BezierPatchNode.hpp"
 #include "FaceNode.hpp"     // For FaceNodeT::ROUND_EPSILON.
