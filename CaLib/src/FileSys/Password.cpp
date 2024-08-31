@@ -1,6 +1,6 @@
 
 #include "Password.hpp"
-#include "../../ExtLibs/MersenneTwister.h"
+#include "MersenneTwister.h"
 #include <cassert>
 
 

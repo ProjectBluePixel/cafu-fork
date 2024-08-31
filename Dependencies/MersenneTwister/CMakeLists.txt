@@ -1,7 +1,6 @@
 file(GLOB_RECURSE SRC_FILES src/*.h)
 
-group_sources(SRC_FILES)
-
 add_library(MersenneTwister STATIC ${SRC_FILES})
+set_target_properties(MersenneTwister PROPERTIES LINKER_LANGUAGE CXX)
 
 target_include_directories(MersenneTwister PUBLIC src)

@@ -1,2 +1,5 @@
 add_subdirectory(glfw-3.4)
-add_subdirectory(bullet)
+#add_subdirectory(bullet)
+add_subdirectory(lua)
+add_subdirectory(Cg)
+add_subdirectory(MersenneTwister)

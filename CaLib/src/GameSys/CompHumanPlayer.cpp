@@ -10,7 +10,7 @@
 #include "World.hpp"
 
 #include "HumanPlayer/CompCarriedWeapon.hpp"
-#include "../Ca3DE/PlayerCommand.hpp"
+#include "PlayerCommand.hpp"
 
 #include "ClipSys/ClipModel.hpp"
 #include "ClipSys/ClipWorld.hpp"
